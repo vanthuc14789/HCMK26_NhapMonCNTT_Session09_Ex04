@@ -3,7 +3,6 @@
 
 ---
 
-<p>btvn4</p>
 <h1 id="prompt-giải-thích-mô-hình-ipo-trong-trang-trại-thông-minh">Prompt giải thích mô hình IPO trong trang trại thông minh</h1>
 <h2 id="bối-cảnh">1. Bối cảnh</h2>
 <p>Tôi là sinh viên năm nhất ngành Công nghệ thông tin. Tôi chưa hiểu rõ mô hình IPO trong trang trại thông minh. Bạn hãy đóng vai gia sư và giải thích cho tôi bằng cách dễ hiểu nhất.</p>
